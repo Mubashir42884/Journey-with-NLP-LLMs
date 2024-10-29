@@ -1,0 +1,7 @@
+Hello world, my name is Mubashir.
+This is my part 2 of working with text.
+I hope to learn more.
+This is the 4th line.
+
+The cursor in the beginning is at point `0`
+The cursor in the beginning is at point `0`
